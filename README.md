@@ -1,5 +1,5 @@
 # Cryptography---19CS415-classical-techqniques
-# Ex-5 Vigenere Cipher
+# Ex-4 Vigenere Cipher
 Vigenere Cipher using with different key values
 
 ## AIM:
